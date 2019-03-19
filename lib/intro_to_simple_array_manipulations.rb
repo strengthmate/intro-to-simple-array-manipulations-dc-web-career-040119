@@ -29,11 +29,11 @@ end
 
 
 def using_concat(flatiron, school)
-  flatiron.concat
+  flatiron.concat(school)
 end
 
 
-def using_insert()
+def using_insert(array, element)
   
 end
 

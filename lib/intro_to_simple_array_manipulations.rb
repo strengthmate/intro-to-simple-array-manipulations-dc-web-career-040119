@@ -29,7 +29,7 @@ end
 
 
 def using_concat(flatiron, school)
-  flatiron
+  flatiron.concat
 end
 
 
